@@ -1,6 +1,7 @@
-/* Stylesheet for the excursion project */
+/* Stylesheet for the excursion project
+   Created by: Emilio Nosthas */
 
-/* General styles */
+/* General element styles */
 body {
   font-family: Verdana;
   background-color: black;
@@ -30,7 +31,7 @@ p {
   color: gray;
 }
 
-/* Special styles */
+/* Special style classes */
 
 .copy {
   text-align: right;
