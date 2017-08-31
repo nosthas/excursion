@@ -1,12 +1,16 @@
+/* Stylesheet for the excursion project */
+
+/* General styles */
 body {
   font-family: Verdana;
+  background-color: black;
+  text-align: center;
 }
 
 h1 {
   font-weight: normal;
   font-size: 50px;
   color: white;
-  text-align: center;
 }
 
 a {
